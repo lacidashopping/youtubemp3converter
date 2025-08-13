@@ -1,0 +1,22 @@
+STEP BY STEP TO GET THIS SOFTWARE TO WORK AS EXPECTED
+
+STEP 1: install ffmpeg
+
+Download FFmpeg
+Go to the official Windows builds:
+🔗 https://www.gyan.dev/ffmpeg/builds/
+
+Download the "Release full" ZIP file (e.g., ffmpeg-7.x-full_build.zip).
+
+Extract the ZIP file somewhere (e.g., C:\ffmpeg)
+
+STEP 2: obtain free trial license key 
+
+Get license key from https://licensemanager.vccbusiness.com/
+> click add license and find Youtube Mp3 by Dondon Lacida
+> On the next page, it will ask for a domain name and an IP address. For the domain name, you can use your computer name, and for the IP address, please obtain it from www.whatismyipaddress.com.
+> Click activate free trial
+> copy your license key below
+<img width="1050" height="54" alt="image" src="https://github.com/user-attachments/assets/bc4504b1-5b6c-40dc-92b6-adce9832e3a6" />
+
+
