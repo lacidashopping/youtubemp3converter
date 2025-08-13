@@ -21,6 +21,8 @@ Click activate 7 days free trial
 
 Open file license.txt and replace with your key.
 
+STEP 3. OPEN THE APPLICATION Youtube Mp3 Converter v3.exe and Enjoy!
+
 Need help? email me dforthster@gmail.com
 
 
